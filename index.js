@@ -22,6 +22,6 @@ app.get('/',(req, res)=>{
     res.render('index')
 })
 
-app.listen(port, ()=>{
+app.listen(process.env.PORT || 3000, ()=>{
     console.log(`Express server listening on port ${port}`)
 })
