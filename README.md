@@ -20,7 +20,7 @@
 <p>
   Tenha NodeJs e nodemon instalado em sua máquina
   <ul>
-    <li>Clone o repositório usando o seguinte comando: git clone https://github.com/maicatheus/B3WalletOnWeb.git</li>
+    <li>Clone o repositório usando o seguinte comando: git clone https://github.com/maicatheus/consultarvaloracao.git</li>
     <li>Navegue até o diretório criado</li>
     <li>nodemon app.js</li>
   </ul>
