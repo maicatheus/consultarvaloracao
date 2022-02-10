@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/maicatheus/consultarvaloracao/issues"
   },
-  "homepage": "https://github.com/maicatheus/consultarvaloracao#readme"
+  "homepage": "https://github.com/maicatheus/consultarvaloracao#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2"
+  }
 }
