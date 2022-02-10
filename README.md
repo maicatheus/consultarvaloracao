@@ -7,8 +7,7 @@
 
 <h2> Sobre </h2>
 <p>
-  Mini projeto integrado com a api <a href='https://www.alphavantage.co/'>Aphavantage</a> para consulta de valor de ações/br
-  É mostrado o valor de fechamento do ativo do dia anterior.
+  Mini projeto integrado com a api <a href='https://www.alphavantage.co/'>Aphavantage</a> para consulta de valor de ações e mostrado o valor de fechamento do ativo do dia anterior.
 </p>
 
 
