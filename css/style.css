@@ -1,0 +1,46 @@
+@charset "UTF-8";
+body{
+    background: rgb(96, 127, 145);
+    font: normal 1em arial;
+}
+select{
+    width: 150px;
+}
+header{
+    color: white;
+    text-align: center;
+}
+div{
+    margin: auto;
+    text-align: center;
+    padding: 8px;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.344);
+    width: 35%;
+    text-align: center
+}
+footer{
+    padding: 5em;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+#assetcode{
+    width: 4em;
+}
+#showassetcode{
+    font: normal 3em arial;
+    display: block;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+#assetclosedprice{
+    display: block;
+    color: rgb(0, 0, 0);
+
+}
