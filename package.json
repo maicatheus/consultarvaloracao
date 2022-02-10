@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines":{
-    "node":"12.11.1"
+  "engines": {
+    "node": "12.11.1"
   },
-
   "scripts": {
     "start": "nodemon --exec babel-node ./server.js"
   },
@@ -24,6 +23,7 @@
   "dependencies": {
     "@babel/node": "^7.16.8",
     "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
     "express": "^4.17.2",
     "express-session": "^1.17.2"
   }
